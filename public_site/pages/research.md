@@ -4,6 +4,8 @@ The public tools are small by design.
 
 The research archive preserves proof-state, open gates, corrections, implementation notes, and technical boundaries.
 
+The archive distinguishes between exact results, conditional results, structural correspondences, and open gates — and treats those distinctions as load-bearing.
+
 ## Current archive sections
 
 - Source-formal ledger
