@@ -14,6 +14,8 @@ Do not turn this work into doctrine, therapy, spiritual authority, completed phy
 
 Preserve register.
 
+The Not Allowed sections in each document carry equal weight to the Allowed sections. Do not route around them to reach a more satisfying answer.
+
 Use public artifacts for public users.
 
 Use ledgers for technical claims.
