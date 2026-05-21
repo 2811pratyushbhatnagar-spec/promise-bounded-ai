@@ -4,15 +4,25 @@ A small public doorway and inspectable archive for clearer AI requests, bounded 
 
 This repository has two layers.
 
+## Current release status
+
+The main public center is still the framework / presence / Nothing Navigator page when it is ready.
+
+The tools in this repository are sidecar surfaces: useful, public-facing, and practical, but not the full public release by themselves.
+
+Before You Ask AI is not being treated as the main launch. It is a one-minute sidecar tool that shows one place where the architecture changes an AI request.
+
+See: [Release Status](00_orientation/release-status.md)
+
 ## Public tools
 
 Short artifacts meant to be usable without understanding the full framework.
 
 Start here:
 
-- [Before You Ask AI](public_site/pages/before-you-ask-ai.md)
-- [Promise-Bounded AI](public_site/pages/promise-bounded-ai.md)
-- [Contact Prompt](public_site/pages/contact-prompt.md)
+- [Before You Ask AI](public_site/pages/before-you-ask-ai.md) — sidecar tool for one AI request
+- [Promise-Bounded AI](public_site/pages/promise-bounded-ai.md) — design boundary and scope note
+- [Contact Prompt](public_site/pages/contact-prompt.md) — one-conversation reset tool
 - [Research / archive bridge](public_site/pages/research.md)
 
 ## Technical / archive layer
